@@ -3,9 +3,9 @@ Overview
   Please note, that the Tap Installer developer is not responsible for the actions of apps you install with Tap Installer.
 
 What personal data is collected by the developer?
-The developer gets some of the data collected:
-  Device Information - brand, model, OS version, device orientation, RAM usage stats, root status, unique identifiers, error logs
-  App usage events such as viewing the Manage Apps screen
+  The developer gets some of the data collected:
+    Device Information - brand, model, OS version, device orientation, RAM usage stats, root status, unique identifiers, error logs
+    App usage events such as viewing the Manage Apps screen
 
 How is personal data being used?
   The developer uses data exclusively to analyze app errors and keep track of app usage stats.
