@@ -1,0 +1,24 @@
+Overview
+
+By using app, you agree with this privacy policy.
+Please note, that Tap Installer developer is not responsible for the actions of apps you install with Tap Installer.
+
+What personal data is collected by developer?
+
+Developer gets some of the data collected:
+
+Device Information - brand, model, OS version, device orientation, RAM usage stats, root status, unique identifiers, errors logs
+
+App usage events such as viewing Manage Apps screen
+
+How is personal data being used?
+
+Developer uses data exclusively to analyze app errors and keep track of app usage stats.
+
+Who is personal data shared with?
+
+Developer doesn't share the data.
+
+How is personal data protected?
+
+Developer doesn't store the data. The data is protected as stated in their privacy policies.
